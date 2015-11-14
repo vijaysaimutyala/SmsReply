@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmsReply</string>
+    <string name="lbnagar">LB Nagar</string>
+    <string name="dilsukhnagar">Dilsukhnagar</string>
+    <string name="ameerpet">Ameerpet</string>
+    <string name="srnagar">S.R. Nagar</string>
+    <string name="KPHB">KPHB Colony</string>
+    <string name="mehdipatnam">Mehdipatnam</string>
+    <string name="uppal">Uppal</string>
+    <string name="Habsiguda">Habsiguda</string>
+</resources>
